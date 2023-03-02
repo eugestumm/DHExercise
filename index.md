@@ -1,5 +1,5 @@
 # In Class Exercise
-## Student's name: XXX 
+## Student's name: Euge Stumm
 
 Thursday March 2nd, 2023 
 
@@ -14,4 +14,4 @@ At the end of the class you can write here a final thought on the exercise and o
 
 ## Comments or notes about problems 
 
-Here...
+Just finished this! Major slayyy!
